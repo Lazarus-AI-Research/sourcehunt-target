@@ -1,0 +1,15 @@
+{
+  "cve": "CVE-2026-45796",
+  "source_repository": "https://github.com/coder/coder.git",
+  "vulnerable_commit": "9400eaa957fb019b0084bd1c8599ec0f671f17cb",
+  "purpose": "minimal static vulnerability-identification reproduction",
+  "files": [
+    {
+      "path": "coderd/azureidentity/azureidentity.go",
+      "sha256": "a01749527fb30b77638eba67239e8c31dc507810ee5018814c8b50c635ae6045",
+      "bytes": 35350,
+      "origin": "results/deepseek-v4-flash_low_thinking/cve/CVE-2026-45796/repo/coderd/azureidentity/azureidentity.go",
+      "unmodified": true
+    }
+  ]
+}
